@@ -1,5 +1,5 @@
 {
-    "name": "Check ability (phpdoc)",
+    "name": "check_ability_phpdoc",
     "description": "Check ability via phpdoc",
     "require": {
         "php": "^7.0",
