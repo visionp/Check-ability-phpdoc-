@@ -1,6 +1,6 @@
 <?php
 
-namespace Vision\CheckAbilityPhpdoc\Tests;
+namespace Visionpp\CheckAbilityPhpdoc\Tests;
 
 use PHPUnit\Framework\TestCase as BaseTestCase;
 

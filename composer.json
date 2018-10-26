@@ -1,5 +1,5 @@
 {
-    "name": "vision/check_ability_phpdoc",
+    "name": "Check ability (phpdoc)",
     "description": "Check ability via phpdoc",
     "require": {
         "php": "^7.0",
@@ -7,18 +7,18 @@
     },
     "authors": [
         {
-            "name": "vision",
+            "name": "visionp",
             "email": "visionp1986@gmail.com"
         }
     ],
     "psr-4": {
         "App\\": "app/",
-        "Vision\\CheckAbilityPhpdoc\\": "packages/vision/check_ability_phpdoc/src/"
+        "Visionp\\CheckAbilityPhpdoc\\": "packages/visionp/check_ability_phpdoc/src/"
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Vision\\CheckAbilityPhpdo\\CheckAbilityProvider"
+                "Visionp\\CheckAbilityPhpdo\\CheckAbilityProvider"
             ]
         }
     },

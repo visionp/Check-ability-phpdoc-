@@ -1,6 +1,6 @@
 <?php
 
-namespace Vision\CheckAbilityPhpdoc\Middleware;
+namespace Visionp\CheckAbilityPhpdoc\Middleware;
 
 use Closure;
 use Illuminate\Routing\Route;

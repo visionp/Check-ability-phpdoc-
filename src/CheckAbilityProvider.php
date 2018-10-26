@@ -1,14 +1,14 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: vision
+ * User: Visionp
  * Date: 10/26/18
  * Time: 3:06 PM
  */
-namespace Vision\CheckAbilityPhpdoc;
+namespace Visionp\CheckAbilityPhpdoc;
 
 use Carbon\Laravel\ServiceProvider;
-use Vision\CheckAbilityPhpdoc\Middleware\CheckAbility;
+use Visionp\CheckAbilityPhpdoc\Middleware\CheckAbility;
 
 class CheckAbilityProvider extends ServiceProvider
 {
